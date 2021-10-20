@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sifydiploymnt/static/css/main.a617e044.chunk.css",
+    "main.js": "/sifydiploymnt/static/js/main.71cedf0d.chunk.js",
+    "main.js.map": "/sifydiploymnt/static/js/main.71cedf0d.chunk.js.map",
+    "runtime-main.js": "/sifydiploymnt/static/js/runtime-main.50716900.js",
+    "runtime-main.js.map": "/sifydiploymnt/static/js/runtime-main.50716900.js.map",
+    "static/js/2.dc51d5d1.chunk.js": "/sifydiploymnt/static/js/2.dc51d5d1.chunk.js",
+    "static/js/2.dc51d5d1.chunk.js.map": "/sifydiploymnt/static/js/2.dc51d5d1.chunk.js.map",
+    "static/js/3.9567ac5b.chunk.js": "/sifydiploymnt/static/js/3.9567ac5b.chunk.js",
+    "static/js/3.9567ac5b.chunk.js.map": "/sifydiploymnt/static/js/3.9567ac5b.chunk.js.map",
+    "index.html": "/sifydiploymnt/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sifydiploymnt/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.dc51d5d1.chunk.js.LICENSE.txt": "/sifydiploymnt/static/js/2.dc51d5d1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sifydiploymnt/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50716900.js",
+    "static/js/2.dc51d5d1.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.71cedf0d.chunk.js"
+  ]
+}
